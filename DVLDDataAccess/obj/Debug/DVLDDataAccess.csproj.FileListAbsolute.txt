@@ -1,0 +1,12 @@
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\bin\Debug\DVLDDataAccess.dll
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\bin\Debug\DVLDDataAccess.pdb
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.AssemblyReference.cache
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.CoreCompileInputs.cache
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.dll
+D:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.pdb
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\bin\Debug\DVLDDataAccess.dll
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\bin\Debug\DVLDDataAccess.pdb
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.AssemblyReference.cache
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.csproj.CoreCompileInputs.cache
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.dll
+E:\coding\Road-Map\course_19\DVLD v 1.0\DVLDDataAccess\obj\Debug\DVLDDataAccess.pdb
